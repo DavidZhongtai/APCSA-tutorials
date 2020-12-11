@@ -11,10 +11,19 @@ public class palindrome {
 
         String inputWord = scanner.nextLine();
 
+        if(isPalindrome(inputWord)){
+            System.out.println("yes palindrome");
+        } else{
+            System.out.println("no plaindrome");
+        }
     }
 
     public static boolean isPalindrome(String text){
-        return true;
+        if(text.equals(reverse(text))){
+            return true;
+        } else{
+            return false;
+        }
     }
 
     public static String reverse(String text){
