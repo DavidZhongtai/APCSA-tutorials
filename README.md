@@ -1,6 +1,6 @@
 # APCSA-tutorials
 
-### lmao yall gotta learn how to use [Google](google.com) 
+### lmao yall gotta learn how to use [google](google.com) 
 
-Various AP-CSA programs to help those in need #godsend
+ap-csa programs to help those in need #godsend
 
