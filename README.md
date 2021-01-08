@@ -2,7 +2,7 @@
 
 This open public repository contains material for users (students/teachers) for Advanced Placement Computer Science A course. In addition, it contains guides on various designs and code snuppets. 
 
-For questions, contact [David An](mailto:davidzhongtaian@gmail.com
+For questions, contact [David An](mailto:davidzhongtaian@gmail.com)
 
 ## Package Contents 
 
