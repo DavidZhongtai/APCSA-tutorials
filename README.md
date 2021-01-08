@@ -1,6 +1,10 @@
-# APCSA-tutorials
+# APCSA-tutorials Repo 
 
-### lmao yall gotta learn how to use [google](google.com) 
+This open public repository contains material for users (students/teachers) for Advanced Placement Computer Science A course. In addition, it contains guides on various designs and code snuppets. 
 
-ap-csa programs to help those in need #godsend
+For questions, contact [David An](mailto:davidzhongtaian@gmail.com
 
+## Package Contents 
+
+  - Palindromes 
+  - Password Checker
