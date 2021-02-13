@@ -8,5 +8,6 @@ For questions, contact [David An](mailto:davidzhongtaian@gmail.com)
 
   - Palindromes 
   - Password Checker
+  - Update the Library and Patron
 
 ##### Let's Code ♨️
